@@ -4,14 +4,11 @@ const toCache = [
     'js/web.webmanifest',
     'css/about.f506abb1.css',
     'js/about.9a01f383.js',
-    'css/app.3d79baa2.css',
     'css/chunk-vendors.bd0d8022.css',
     'js/app.ee231ffc.js',
     'js/chunk-vendors.9ce14e71.js',
     'css/chunk-vendors.bd0d8022.css',
     'css/app.3d79baa2.css',
-    'img/bg.171d8de9.png',
-    'img/profile.bb5e603c.jpg',
     'img/splash.png',
 ];
 
