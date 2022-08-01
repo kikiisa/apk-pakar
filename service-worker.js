@@ -1,6 +1,10 @@
 const CACHE_NAME = 'V-2';
 const toCache = [
     '/',
+    'css/app.3d79baa2.css',
+    'css/about.f506abb1.css',
+    'js/about.9a01f383.js',
+    'js/app.ee231ffc.js',
     'js/web.webmanifest',
     'img/splash.png',
 ];
