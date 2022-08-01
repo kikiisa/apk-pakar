@@ -1,7 +1,7 @@
 {
     "name": "SISTEM PAKAR PENYAKIT KELAMIN",
     "short_name": "SISTEM PAKAR PENYAKIT KELAMIN",
-    "description": "SISTEM PAKAR PENYAKIT KELAMIN",
+    "description": "",
     "icons": [
         {
             "src": "../img/splash.png",
@@ -11,6 +11,6 @@
     ],
     "start_url": "/",
     "display": "standalone",
-    "theme_color": "#0d0072",
-    "background_color": "#0d0072"
+    "theme_color": "#7330f9",
+    "background_color": "#7330f9"
 }
