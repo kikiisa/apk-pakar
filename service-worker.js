@@ -8,7 +8,6 @@ const toCache = [
     'js/app.ee231ffc.js',
     'js/chunk-vendors.9ce14e71.js',
     'css/chunk-vendors.bd0d8022.css',
-    'css/app.3d79baa2.css',
     'img/splash.png',
 ];
 
