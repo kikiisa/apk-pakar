@@ -2,12 +2,6 @@ const CACHE_NAME = 'V-2';
 const toCache = [
     '/',
     'js/web.webmanifest',
-    'css/about.f506abb1.css',
-    'js/about.9a01f383.js',
-    'css/chunk-vendors.bd0d8022.css',
-    'js/app.ee231ffc.js',
-    'js/chunk-vendors.9ce14e71.js',
-    'css/chunk-vendors.bd0d8022.css',
     'img/splash.png',
 ];
 
