@@ -2,12 +2,13 @@ const CACHE_NAME = 'SW-001';
 const toCache = [
     '/',
     'js/web.webmanifest',
-    'css/app.16eb2bc1.css',
+    'css/app.3d79baa2.css',
+    'css/about.837e70d8.css',
     'css/chunk-vendors.bd0d8022.css',
-    'js/app.8ae159c6.js',
-    'js/app.8ae159c6.js.map',
-    'js/chunk-vendors.276f385f.js',
-    'js/chunk-vendors.276f385f.js.map',
+    'js/app.ba0cb655.js',
+    'js/app.ba0cb655.js.map',
+    'js/chunk-vendors.9ce14e71.js',
+    'js/chunk-vendors.9ce14e71.js.map',
     'js/register.js',
     'img/priority.png',
 ];
