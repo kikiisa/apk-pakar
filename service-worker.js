@@ -12,7 +12,6 @@ const toCache = [
     'js/chunk-vendors.9ce14e71.js',
     'js/chunk-vendors.9ce14e71.js.map',
     'js/register.js',
-    'img/priority.png',
 ];
 
 self.addEventListener('install', function(event) {
