@@ -9,7 +9,7 @@ const toCache = [
     'js/app.08148684.js',
     'js/app.08148684.js.map',
     'js/register.js',
-    'img/favicon.png',
+    'img/priority.png',
 ];
 
 self.addEventListener('install', function(event) {

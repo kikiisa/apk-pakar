@@ -1,10 +1,10 @@
 {
-    "name": "SPPK",
-    "short_name": "SPPK",
-    "description": "SPPK",
+    "name": "SISTEM PAKAR PENYAKIT KELAMIN",
+    "short_name": "SISTEM PAKAR PENYAKIT KELAMIN",
+    "description": "SISTEM PAKAR PENYAKIT KELAMIN",
     "icons": [
         {
-            "src": "../img/favicon.png",
+            "src": "../img/priority.png",
             "sizes": "192x192",
             "type": "image/png"
         }
