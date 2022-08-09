@@ -4,8 +4,8 @@
     "description": "SISTEM PAKAR PENYAKIT KELAMIN",
     "icons": [
         {
-            "src": "/favicon.png",
-            "sizes": "128x128",
+            "src": "../img/priority.png",
+            "sizes": "128x123",
             "type": "image/png"
         }
     ],
