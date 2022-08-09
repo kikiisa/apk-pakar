@@ -5,7 +5,7 @@
     "icons": [
         {
             "src": "../img/priority.png",
-            "sizes": "192x192",
+            "sizes": "128x123",
             "type": "image/png"
         }
     ],
