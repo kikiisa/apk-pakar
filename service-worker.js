@@ -1,10 +1,10 @@
 const CACHE_NAME = 'SW-005';
 const toCache = [
     '/',
+    'js/web.webmanifest',
     'css/about.1a49eb57.css',
     'css/app.676e8b36.css',
     'css/chunk-vendors.bd0d8022.css',
-    'js/web.webmanifest',
     'js/about.6dd58e37.js',
     'js/about.6dd58e37.js.map',
     'js/app.08148684.js',
