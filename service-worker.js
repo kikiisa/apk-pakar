@@ -1,4 +1,4 @@
-const CACHE_NAME = 'SW-001';
+const CACHE_NAME = 'SW-005';
 const toCache = [
     '/',
     'css/about.817c1ffc.css',
@@ -10,8 +10,6 @@ const toCache = [
     'css/chunk-vendors.bd0d8022.css"',
     'css/app.63430695.css"',
     'img/user.png',
-    'js/chunk-vendors.27ffc6b4.js',
-    'js/app.834530e8.js'
 
 ];
 
