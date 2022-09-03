@@ -3,12 +3,9 @@ const toCache = [
     '/',
     'css/about.817c1ffc.css',
     'js/about.a2790874.js',
-    'css/app.63430695.css',
     'css/chunk-vendors.bd0d8022.css',
     'js/app.834530e8.js',
     'js/chunk-vendors.27ffc6b4.js',
-    'css/chunk-vendors.bd0d8022.css',
-    'css/app.63430695.css',
     'img/user.png',
 
 ];
