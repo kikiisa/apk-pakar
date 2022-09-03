@@ -1,15 +1,18 @@
 const CACHE_NAME = 'SW-001';
 const toCache = [
     '/',
-    'js/web.webmanifest',
-    'css/app.16eb2bc1.css',
+    'css/about.817c1ffc.css',
+    'js/about.a2790874.js',
+    'css/app.63430695.css',
     'css/chunk-vendors.bd0d8022.css',
-    'js/app.8ae159c6.js',
-    'js/app.8ae159c6.js.map',
-    'js/chunk-vendors.276f385f.js',
-    'js/chunk-vendors.276f385f.js.map',
-    'js/register.js',
-    'img/priority.png',
+    'js/app.834530e8.js',
+    'js/chunk-vendors.27ffc6b4.js',
+    'css/chunk-vendors.bd0d8022.css"',
+    'css/app.63430695.css"',
+    'img/user.png',
+    'js/chunk-vendors.27ffc6b4.js',
+    'js/app.834530e8.js'
+
 ];
 
 self.addEventListener('install', function(event) {
